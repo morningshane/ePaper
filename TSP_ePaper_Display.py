@@ -10,7 +10,7 @@ import time
 import requests
 import sys
 import json
-import wand
+from PIL import wand
 from wand.display import display
 import datetime
 
