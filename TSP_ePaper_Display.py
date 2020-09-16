@@ -20,7 +20,7 @@ sys.setdefaultencoding('utf-8')
 EPD_WIDTH = 640
 EPD_HEIGHT = 384
 TODOIST_TOKEN = '1e5212f77e2020066a7837c5e6ca1785674a4177'
-WEATHER_API = 'PUT YOUR ID HERE'
+WEATHER_API = '63280d5284889228f2ecb45a981563b2'
 
 def main():
         global Debug_Mode; Debug_Mode = 0
