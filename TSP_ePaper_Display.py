@@ -2,9 +2,9 @@
 # Shahriar Shahramian / November 2018
 
 import epd7in5b
-import Image
-import ImageDraw
-import ImageFont
+from PIL import Image
+from PIL import ImageDraw
+from PIL import ImageFont
 import calendar
 import time
 import requests
